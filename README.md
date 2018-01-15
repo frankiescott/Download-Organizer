@@ -1,2 +1,2 @@
-# File Organizer
-Organizes the files in a chosen directory into separate folders based on file extension.
+# Extension Catalog
+Iterates over the files of a chosen directory and catalogs them in folders based on extension.
